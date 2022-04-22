@@ -1,5 +1,7 @@
 # MyPortfolio Theme
 
+Fork from "2-REC/hugo-myportfolio-theme".
+
 NOTICE: Due to the theme different structure (allowing more than 1 section for the posts, and the homepage sections defined in "data" directory instead of content), the "exampleSite" doesn't respect the "classic" Hugo structure, and is thus not working correctly. The "Professional" and "Personal" links and sections are not available and don't allow to see the demo site properly.
 To visualise a working example of the theme, you are invited to take a look at the site pointed by "Home" link, showcasing my own (unfinished) protfolio website.
 
